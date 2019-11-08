@@ -1,0 +1,25 @@
+{
+  "name": "mq-server",
+  "version": "1.0.0",
+  "description": "JS401 Lab-19",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmerlemeier-401-advanced-javascript/mq-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmerlemeier-401-advanced-javascript/mq-server/issues"
+  },
+  "homepage": "https://github.com/jmerlemeier-401-advanced-javascript/mq-server#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
